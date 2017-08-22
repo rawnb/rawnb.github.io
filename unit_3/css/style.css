@@ -9,9 +9,8 @@ body {
 	font-family: helvetica, sans-serif;
 	font-style: bold;
 	font-size:20px;
-	background-image: url("https://github.com/rawnb/rawnb.github.io/blob/master/unit_3/images/DetroitBW.jpg");
+	background-image: url(../images/DetroitBW.jpg);
 	background-size:2000px;
-	background-color: black;
 	color: #fff;
 }
 ul {
