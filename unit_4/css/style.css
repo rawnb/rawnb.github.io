@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald|Roboto+Slab');
+
+h1{	font-family: 'Oswald', bold;
+	font-weight: bold;
+	font-size:80px;
+}
+h2{
+	font-family: 'Roboto Slab', medium, sans-serif;
+}
+body {
+	font-family: 'Roboto Slab',serif;
+	font-weight: bold;
+	font-size:20px;
+	text-align: center;
+	line-height: 1.5em;
+	background-image: url(../images/DetroitBW.jpg);
+	background-size:2000px;
+	color: #fff;
+	margin: 3em;
+}
+ul {
+    text-align: center;
+    list-style-type: none;
+}
