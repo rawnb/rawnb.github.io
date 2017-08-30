@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald|Roboto+Slab');
+
+body {
+	font-family: 'Roboto Slab',serif;
+	font-weight: bold;
+	font-size:20px;
+	text-align: center;
+	line-height: 1.5em;
+	background-image: url(../images/DetroitBW.jpg);
+	background-size:2000px;
+	color: #fff;
+	margin: 3em;
+}
+
+header {
+    background-color: #FFED74;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+nav {
+    background-color: #E8C66A;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+aside {
+    background-color: #FFC675;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+article {
+    background-color: #E89C6C;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+footer {
+    background-color: #FF957E;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+div / section {
+    background-color: #FFE2B8;
+    border: 1px black solid;
+    padding: 20px;
+}
+ 
+h1 {	
+	font-family: 'Oswald', bold;
+	font-weight: bold;
+	font-size:80px;
+}
+
+h2 {
+	font-family: 'Roboto Slab', medium, sans-serif;
+}
+
+ul {
+    text-align: center;
+    list-style-type: none;
+}
